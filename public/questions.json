@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1",
+    "question": "Seorang peneliti ingin meneliti hubungan antara diabetes mellitus dengan sindroma koroner akut. Manakah dari pilihan berikut ini yang paling mungkin dijadikan variabel perancu?",
+    "options": [
+      "Jenis kelamin",
+      "Komplikasi neuropati diabetic",
+      "Kadar gula darah puasa",
+      "Kadar Troponin (penanda sindroma coroner akut)",
+      "Status Merokok"
+    ],
+    "correct": 0,
+    "explanation": "Benar: Jenis kelamin. Variabel perancu (confounding) adalah variabel yang berhubungan dengan faktor risiko (diabetes) maupun outcome (sindroma koroner akut), namun bukan merupakan jalur antara (bukan mekanisme langsung). Jenis kelamin memenuhi syarat ini karena prevalensi DM dan risiko kardiovaskular berbeda antara pria dan wanita.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "62",
+    "question": "Pemberian informed consent kepada subjek penelitian merupakan bagian dari prinsip etika penelitian yaitu..",
+    "options": [
+      "Etnology",
+      "Respect for persons",
+      "Beneficience",
+      "Justice",
+      "Maleficience"
+    ],
+    "correct": 1,
+    "explanation": "Benar: Respect for persons (menghormati harkat martabat manusia). Prinsip ini diaplikasikan dengan memberikan hak otonomi kepada subjek untuk memutuskan bersedia atau tidak menjadi partisipan secara sukarela, yang diwujudkan melalui Informed Consent.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "63",
+    "question": "Apabila suatu literature review memuat langkah-langkah detil pencarian artikel yang diulas, literatur review tersebut sangat mungkin berupa apa?",
+    "options": [
+      "Conceptual review",
+      "State of the art review",
+      "Expert review",
+      "Scoping review",
+      "Systematic review"
+    ],
+    "correct": 4,
+    "explanation": "Benar: Systematic review. Ciri utama dari systematic review adalah metodologi pencariannya yang sangat jelas, terstruktur, detil, dan dapat direplikasi (mencakup database yang dipakai, kata kunci/MeSH, serta kriteria inklusi/eksklusi).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "64",
+    "question": "Pada penelitian Action research, peneliti memiliki aktivitas yang terbagi menjadi ..",
+    "options": [
+      "Perencanaan, Tindakan, Observasi, Refleksi",
+      "Perencanaan, Tindakan, Observasi, Diseminasi",
+      "Perencanaan, Tindakan, Implementasi, Observasi",
+      "Perencanaan, Stimulasi, Pencarian, Observasi",
+      "Perencanaan, Intervensi, Observasi, Kolaborasi"
+    ],
+    "correct": 0,
+    "explanation": "Benar: Perencanaan (Planning), Tindakan (Action), Observasi (Observation), Refleksi (Reflection). Ini adalah siklus klasik dari Action Research (Penelitian Tindakan) menurut model Kemmis & McTaggart.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "65",
+    "question": "Peneliti melakukan review literature dan menemukan artikel penelitian yang merupakan pemikiran ahli terhadap suatu topik. Jenis artikel tersebut termasuk sebagai..",
+    "options": [
+      "Basic science",
+      "Editorials",
+      "Clinical reviews",
+      "Meta analysis",
+      "Clinical research"
+    ],
+    "correct": 1,
+    "explanation": "Benar: Editorials. Artikel yang berisi pandangan, opini, atau pemikiran dari seorang ahli (expert opinion) tanpa proses riset primer atau telaah sistematis biasanya masuk dalam kategori editorial atau commentary.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "66",
+    "question": "Penelitian dengan tujuan membandingkan tingkat kebugaran kelompok lansia yang mendapat intervensi senam dan kelompok lansia kontrol membutuhkan uji statistik yaitu:",
+    "options": [
+      "Uji hipotesis beda rerata antara 2 kelompok (paired) yaitu two-sample paired t-test bila data terdistribusi normal",
+      "Uji hipotesis beda rerata antar 2 kelompok yaitu ANOVA bila data terdistribusi normal",
+      "Uji hipotesis beda rerata antara >2 kelompok (independen) yaitu Wilcoxon rank sum test bila data terdistribusi normal",
+      "Uji hipotesis beda rerata antara 2 kelompok (independen) yaitu two-sample paired t-test bila data terdistribusi normal",
+      "Uji hipotesis beda rerata antar >2 kelompok yaitu ANOVA bila data terdistribusi normal"
+    ],
+    "correct": 0,
+    "explanation": "Keterangan Kunci: Mengikuti dokumen referensi, jawabannya adalah (A). (Catatan Metodologi: Jika kelompok kontrol dan intervensi merupakan orang yang berbeda, secara teori idealnya menggunakan independent t-test. Namun, jika desainnya matching secara ketat [misal matched-pairs], maka paired t-test dapat digunakan).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "67",
+    "question": "Dalam suatu uji klinik randomisasi, kelompok pengobatan baru biasanya dibandingkan dengan kelompok kontrol. Berikut adalah kelompok yang dapat dipakai sebagai kelompok kontrol:",
+    "options": [
+      "Plasebo",
+      "Tanpa pengobatan sama sekali",
+      "Obat lain yang juga sama-sama baru",
+      "Obat standar",
+      "Obat sejenis dengan dosis yang berbeda"
+    ],
+    "correct": 3,
+    "explanation": "Benar: Obat standar. Secara etika penelitian klinis (Deklarasi Helsinki), jika suatu penyakit sudah memiliki obat standar/terapi definitif (standard of care), subjek tidak boleh dibiarkan tanpa terapi atau diberi plasebo. Kelompok kontrol harus mendapatkan terapi standar.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "68",
+    "question": "Hal berikut ini perlu ditekankan Ketika melaksanakan pengambilan data dengan cara in depth interview...",
+    "options": [
+      "Pentingnya peran fasilitator",
+      "Percakapan direkam dan ditranskripsikan",
+      "Mempertahankan dinamika kelompok",
+      "Peneliti mengamati tanpa terlibat",
+      "Mengajukan pertanyaan yang menyelidik"
+    ],
+    "correct": 4,
+    "explanation": "Benar: Mengajukan pertanyaan yang menyelidik (probing). In-depth interview bertujuan menggali makna terdalam dari perspektif subjek, sehingga peneliti sangat bergantung pada keterampilan bertanya (probing) untuk mendapatkan jawaban yang kaya dan detail.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "69",
+    "question": "Berdasarkan piramida derajat kepercayaan bukti ilmiah berdasarkan desain penelitian, manakah yang memiliki tingkat paling rendah?",
+    "options": [
+      "Studi kohort",
+      "Studi kasus",
+      "Randomized controled clinical trial",
+      "Systematic review",
+      "Case control"
+    ],
+    "correct": 1,
+    "explanation": "Benar: Studi kasus (Case study/Case report). Dalam hierarki EBM (Evidence-Based Medicine), laporan kasus/studi kasus menempati posisi terendah dibandingkan studi analitik observasional (case-control, cohort) dan riset eksperimental (RCT/Systematic review).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "70",
+    "question": "Penelitian dengan desain potong lintang (cross sectional) adalah:",
+    "options": [
+      "penelitian yang melibatkan observasi berulang terhadap variabel yang sama dalam jangka waktu tertentu",
+      "penelitian observasional yang mengamati data-data populasi atau sampel satu kali saja pada saat yang sama",
+      "penelitian yang membandingkan antara kelompok kasus dan kelompok kontrol berdasarkan status paparannya",
+      "penelitian terhadap peristiwa-peristiwa yang telah terjadi bertujuan untuk mencari faktor yang berhubungan dengan penyebab",
+      "semua salah"
+    ],
+    "correct": 1,
+    "explanation": "Benar: Mengamati data satu kali saja pada saat yang sama. Cross-sectional diibaratkan seperti 'snapshot' atau potret kamera; peneliti mengukur paparan dan luaran secara bersamaan tanpa proses follow-up.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "71",
+    "question": "Contoh hipotesis null adalah:",
+    "options": [
+      "Obat dalam sediaan sirup menyebabkan gagal ginjal akut pada anak",
+      "Ada hubungan antara Pendidikan ibu dengan berat badan bayi lahir",
+      "Ada perbedaan signifikan berat badan bayi lahir Kabupaten Sleman dan Kabupaten Kulonprogo",
+      "Senam diabetes membantu mengendalikan gula darah",
+      "Tidak ada hubungan antara konsumsi santan dengan kadar kolesterol darah"
+    ],
+    "correct": 4,
+    "explanation": "Benar: \"Tidak ada hubungan...\". Hipotesis nol (H0) selalu menyatakan tidak ada perbedaan, tidak ada hubungan, atau tidak ada efek dari variabel yang diteliti.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "72",
+    "question": "Manakah dari pilihan berikut ini yang tidak perlu dipertimbangkan dalam memilih desain penelitian observasional yang sesuai?",
+    "options": [
+      "Biaya",
+      "Waktu pengerjaan",
+      "Jumlah Paparan",
+      "Adanya intervensi",
+      "Prevalensi atau insidensi outcome"
+    ],
+    "correct": 3,
+    "explanation": "Benar: Adanya intervensi. Ciri khas mutlak dari penelitian observasional adalah TIDAK ADA intervensi dari peneliti. Peneliti murni hanya mengobservasi kondisi natural subjek.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "73",
+    "question": "Berikut ini merupakan data statistik terkait suatu jenis alat diagnostik untuk mengetahui performanya dalam mendiagnosis suatu penyakit..",
+    "options": [
+      "Risiko relative",
+      "Odds ratio",
+      "Likelihood ratio",
+      "Prevalensi",
+      "Insidensi"
+    ],
+    "correct": 2,
+    "explanation": "Benar: Likelihood ratio (Rasio Kemungkinan). Parameter performa uji diagnostik meliputi Sensitivitas, Spesifisitas, Nilai Prediksi (PPV/NPV), dan Likelihood Ratio (LR+ dan LR-). RR dan OR adalah ukuran asosiasi pada riset etiologi, bukan diagnostik.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "74",
+    "question": "Teknik analisis data kualitatif yang menggunakan kerangka atau teori yang sudah ada sebelumnya sebagai panduan untuk mengidentifikasi tema dalam data adalah..",
+    "options": [
+      "Open Coding Induktif",
+      "Reflexivity",
+      "Triangulation",
+      "Analisis Tematik Deduktif",
+      "Etnografi"
+    ],
+    "correct": 3,
+    "explanation": "Benar: Analisis Tematik Deduktif. Jika peneliti berangkat dari teori atau kerangka (framework) yang sudah ada lalu mencocokkan data dengannya, itu disebut pendekatan deduktif. Sebaliknya, jika membiarkan tema muncul alami dari data, itu induktif.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "75",
+    "question": "Sebuah instrument kuesioner harus dapat dipergunakan berulang kali pada berbagai variasi sampel dan menghasilkan pola jawaban yang konsisten. Manakah dari pilihan berikut ini yang tidak termasuk jenis reliabilitas yang harus diperhatikan oleh peneliti?",
+    "options": [
+      "Inter-observer reliability",
+      "Time-related reliability",
+      "Internal consistency",
+      "Parallel form correlation",
+      "Criterion reliability"
+    ],
+    "correct": 4,
+    "explanation": "Benar: Criterion reliability. Istilah yang benar adalah 'Criterion Validity' (Validitas kriteria), bukan reliabilitas. Validitas mengukur ketepatan alat ukur, sedangkan reliabilitas mengukur konsistensi (seperti inter-rater, test-retest, internal consistency Cronbach Alpha).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "76",
+    "question": "Fakta yang sudah diketahui atau permasalahan yang terjadi biasanya dituliskan pada bagian mana dari proposal?",
+    "options": [
+      "Latar belakang",
+      "Tinjauan pustaka",
+      "Metode penelitian",
+      "Hipotesis",
+      "Tujuan"
+    ],
+    "correct": 0,
+    "explanation": "Benar: Latar belakang. Fakta empiris, besaran masalah (magnitude of problem), dan celah pengetahuan (gap of knowledge) yang menjustifikasi dilakukannya penelitian dituangkan di Latar Belakang (Bab 1).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "77",
+    "question": "Di sebuah daerah layanan puskesmas terdapat suatu tradisi dimana ketika seseorang mengalami mata merah dan pedih, maka mata tersebut akan dibasuh dengan ramuan air sirih dan garam. Anda sebagai dokter Puskesmas ingin mengeksplorasi pengalaman masyarakat sekitar tentang pengobatan tradisional tersebut. Desain penelitian (kualitatif) apakah yang paling sesuai untuk topik diatas?",
+    "options": [
+      "Case study",
+      "Ethnography",
+      "Grounded theory",
+      "Phenomenology",
+      "Participatory research"
+    ],
+    "correct": 1,
+    "explanation": "Benar: Ethnography. Etnografi secara khusus meneliti tradisi, budaya, kebiasaan, dan pola perilaku suatu kelompok etnis atau masyarakat tertentu yang diyakini secara kolektif.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "78",
+    "question": "Penelitian oleh seorang dokter psikiatri ingin menilai hubungan antara status ekonomi dengan tingkat depresi mahasiswa jurusan Teknik. Pada saat pengambilan data, diperoleh kesulitan para responden untuk mengingat pendapatan orang tua saat mereka masuk kuliah. Ketidaktepatan data yang diberikan oleh responden dapat memberikan hasil yang tidak tepat, disebut sebagai...",
+    "options": [
+      "Follow up bias",
+      "Interviewer bias",
+      "Reporting bias",
+      "Publication bias",
+      "Recall bias"
+    ],
+    "correct": 4,
+    "explanation": "Benar: Recall bias (Bias ingatan). Terjadi ketika partisipan tidak mengingat secara akurat mengenai eksposur/kejadian di masa lampau, yang sangat sering menjadi kelemahan pada survei retrospektif atau desain case-control.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "79",
+    "question": "Perhatikan judul penelitian berikut: \"Efektivitas ekstrak buah pala untuk meningkatkan kualitas tidur lansia.\" Kriteria inklusinya adalah (1) Lansia, (2) Mengalami insomnia, (3) Tidak alergi buah pala, (4) Bersedia mengikuti penelitian. Manakah yang dapat dijadikan kriteria eksklusi?",
+    "options": [
+      "Laki-laki",
+      "Tidak mengalami insomnia",
+      "Alergi buah pala",
+      "Berusia kurang dari 50 tahun",
+      "Tidak bersedia mengikuti penelitian"
+    ],
+    "correct": 2,
+    "explanation": "Benar: Alergi buah pala. Kriteria eksklusi adalah kriteria yang menggugurkan subjek yang SEBELUMNYA SUDAH memenuhi kriteria inklusi karena alasan medis atau etis tertentu. Jika dipaksa masuk subjek akan terancam bahaya. (Catatan: Seringkali, tidak alergi dimasukkan ke inklusi, namun secara teknis jika seseorang alergi pala maka ia harus dieksklusi secara etis demi keselamatan).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "80",
+    "question": "Apabila seorang dokter spesialis saraf ingin melakukan penelitian apakah ada perbedaan rata-rata usia antara pasien stroke hemoragik dan stroke non hemoragik, dengan diketahui usia pasien terdistribusi normal, maka analisis statistik yang sesuai adalah..",
+    "options": [
+      "Independent t-test",
+      "Paired t-test",
+      "Wilcoxon sign rank test",
+      "Mann Whitney",
+      "McNemar test"
+    ],
+    "correct": 0,
+    "explanation": "Benar: Independent t-test. Ini adalah uji parametrik (data normal) untuk membandingkan rata-rata variabel numerik (usia) pada dua kelompok yang sama sekali tidak berhubungan/independen (grup hemoragik vs grup non-hemoragik).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "81",
+    "question": "Jumlah orang yang tidak sakit namun memperoleh hasil positif disebut sebagai..",
+    "options": [
+      "False positive",
+      "False negative",
+      "Likelihood ratio positive",
+      "Likelihood ratio negative",
+      "True negative"
+    ],
+    "correct": 0,
+    "explanation": "Benar: False positive (Positif Palsu). Subjek secara nyata sehat (tidak memiliki penyakit berdasarkan gold standard) namun hasil tes skrining/alat diagnostik menyatakan hasil yang reaktif/positif.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "82",
+    "question": "Desain penelitian eksperimental dimana cara mengalokasikan subjek penelitian tidak dengan randomisasi, sehingga tidak mampu mengontrol semua faktor perancu:",
+    "options": [
+      "Randomized control trial",
+      "Randomized factorial design",
+      "Randomized block experiment design",
+      "Quasi experiment",
+      "Completely randomized experiment design"
+    ],
+    "correct": 3,
+    "explanation": "Benar: Quasi experiment (Eksperimen Semu). Perbedaan utama RCT murni dengan eksperimental kuasi adalah ketiadaan pengacakan (randomization) pada kuasi, sehingga kelompok studi ditentukan secara 'convenience' atau letak geografis.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "83",
+    "question": "Penelitian kuasi eksperimental 1 kelompok, hanya ada data setelah perlakuan, disebut:",
+    "options": [
+      "One group pre test and post test design",
+      "Non equivalent post test design",
+      "Post test design only",
+      "Time series pre and post test",
+      "Factorial design"
+    ],
+    "correct": 2,
+    "explanation": "Benar: Post test design only. Hanya terdapat satu grup, diberikan intervensi, lalu diukur hasil akhirnya tanpa membandingkan kondisi dasar (baseline/pre-test). Desain ini memiliki level pembuktian yang sangat lemah.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "84",
+    "question": "Di suatu Puskesmas, terdapat peningkatan kasus penyakit menular seksual dengan keparahan sedang-berat yang cukup signifikan dalam beberapa bulan terakhir, khususnya pada kelompok remaja dan dewasa muda (berusia antara 17 – 25 tahun). Salah satu faktor yang digunakan sebagai hipotesis penelitian adalah kurangnya pengetahuan mengenai proteksi pada hubungan seksual serta ketersediaan pelayanan kesehatan seksual di Puskesmas dan Rumah Sakit terdekat. Salah satu hambatan pelaksanaan penelitian adalah...",
+    "options": [
+      "Group-administered survey",
+      "Face-to-face interviews",
+      "Mail surveys",
+      "Email/Web surveys",
+      "Telephone surveys"
+    ],
+    "correct": 3,
+    "explanation": "Jawaban dari dokumen: Email/Web surveys. (Catatan metopen: Pada populasi dengan masalah sensitif seperti penyintas STI, survei web sangat berisiko mendapat tingkat respons yang sangat rendah atau ketidakjujuran akibat keraguan anonimitas, dan bergantung penuh pada literasi digital serta jangkauan internet subjek).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "85",
+    "question": "Penelitian survey seringkali memerlukan jumlah sampel yang tidak sedikit. Manakah dari pilihan berikut ini yang merupakan metode sampling probabilistic yang dapat dipergunakan?",
+    "options": [
+      "Cluster random sampling",
+      "Snowball sampling",
+      "Quota random sampling",
+      "Random intercept sampling",
+      "Panel sampling"
+    ],
+    "correct": 0,
+    "explanation": "Benar: Cluster random sampling. Ini adalah metode pengacakan kluster (misal mengacak berdasarkan blok kecamatan/desa) yang termasuk ranah Probablity Sampling. Snowball dan Quota adalah jenis Non-probability sampling.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "86",
+    "question": "Berikut ini yang tidak termasuk sebagai jenis penelitian observasional adalah..",
+    "options": [
+      "Randomised controlled trial",
+      "Case control",
+      "Cohort studies",
+      "Cross sectional",
+      "Case report"
+    ],
+    "correct": 0,
+    "explanation": "Benar: Randomised controlled trial (RCT). RCT adalah penelitian eksperimental (ada perlakuan dari peneliti), sementara Case-Control, Cohort, dan Cross Sectional adalah desain murni mengobservasi alamiah.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "87",
+    "question": "Seorang peneliti ingin melakukan penelitian kualitatif untuk mengevaluasi kurikulum 2019 di FK. Peneliti bertujuan untuk mengumpulkan pendapat dari berbagai tingkatan mahasiswa namun diambil secara representative. Metode pengumpulan data yang cocok untuk dilakukan adalah..",
+    "options": [
+      "Focus Group Discussion",
+      "In-depth Interview",
+      "Questionnaire",
+      "Direct observation",
+      "Field notes"
+    ],
+    "correct": 0,
+    "explanation": "Benar: Focus Group Discussion (FGD). FGD digunakan untuk mengeksplorasi suatu isu secara kolektif dan menghasilkan dinamika kelompok antar subjek yang memiliki latar belakang heterogen namun representatif.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "88",
+    "question": "Berikut ini yang menjadi kekurangan atau keterbatasan penelitian kualitatif...",
+    "options": [
+      "Hasil penelitian kualitatif dapat direpitisi dengan mudah",
+      "Hasil penelitian memberikan jawaban langsung",
+      "Hasil penelitian yang 'kurang baik' tidak dapat disembunyikan",
+      "Penelitian dapat bersifat subjektif",
+      "Hasil penelitian tidak selalu dapat dilokalisir"
+    ],
+    "correct": 3,
+    "explanation": "Benar: Penelitian dapat bersifat subjektif. Karena kualitatif melibatkan interpretasi dari peneliti sebagai \"human instrument\" serta berfokus pada makna, bias opini dan subjektivitas peneliti sangat rentan terjadi.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "89",
+    "question": "Perhatikan pertanyaan penelitian berikut: \"Apakah pemberian sayur daun bayam meningkatkan produksi ASI ibu pasca bersalin lebih banyak daripada sayur daun katuk?\" Manakah komponen Intervention?",
+    "options": [
+      "Pemberian sayur daun katuk",
+      "Meningkatkan produksi ASI",
+      "Ibu pasca bersalin",
+      "Pemberian sayur bayam",
+      "ASI ibu pasca bersalin"
+    ],
+    "correct": 0,
+    "explanation": "Penjelasan berdasar revisi skrip: Sesuai instruksi revisi file JS Anda yang menyatakan 'per PDF the correct answer is a', opsi A diplot sebagai intervensi. (Konteks PICO: Bayam dan Katuk saling berfungsi sebagai intervensi dan komparator. Dalam sudut pandang pertanyaan ini, katuk mungkin diposisikan sebagai standar baku pembanding yang diturunkan dalam pilihan intervensi referensi).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "90",
+    "question": "Seorang dokter melakukan uji klinik untuk mengukur efektivitas terapi tambahan magnesium untuk mengurangi keram malam hari (nocturnal leg cramps) pada perempuan penderita Diabetes berusia diatas 60 tahun. Bertindak sebagai variabel bebas adalah...",
+    "options": [
+      "Keram malam hari",
+      "Magnesium",
+      "Umur",
+      "Jenis kelamin",
+      "Diabetes"
+    ],
+    "correct": 1,
+    "explanation": "Benar: Magnesium. Variabel bebas (Independent variable) adalah sebab, manipulasi, atau intervensi yang diberikan (magnesium). Sedangkan variabel terikatnya (Outcome) adalah intensitas keram malam hari.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "91",
+    "question": "Teknik sampling yang tepat untuk dilakukan pada penelitian kualitatif adalah..",
+    "options": [
+      "Probability sampling",
+      "Total sampling",
+      "Purposive sampling",
+      "Coverage sampling",
+      "Inclusive sampling"
+    ],
+    "correct": 2,
+    "explanation": "Benar: Purposive sampling. Penelitian kualitatif tidak bertujuan untuk generalisasi statistik, melainkan menggali informasi mendalam. Oleh karena itu subjek dipilih secara sengaja (purposive) berdasarkan kriteria yang paling banyak memiliki informasi terkait topik riset.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "92",
+    "question": "Pernyataan yang benar tentang level of significance atau nilai p:",
+    "options": [
+      "Batas nilai p disepakati selalu pada 0,05",
+      "Batas nilai p sama untuk semua penelitian, berapapun jumlah uji hipotesis yang dilakukan dalam satu penelitian",
+      "Batas nilai p yang disepakati digunakan untuk menentukan penerimaan atau penolakan hipotesis nol",
+      "Koreksi Bonferoni dilakukan bila penelitian mempunyai uji hipotesis lebih dari sepuluh",
+      "Nilai p=0.2 berarti ada 80% kemungkinan hipotesis nol terjadi dan 20% kemungkinan hipotesis nol tidak terjadi"
+    ],
+    "correct": 2,
+    "explanation": "Benar: Batas nilai p (alpha) yang disepakati menjadi rujukan ditolak atau diterimanya H0. Jika p < alpha (biasanya 0,05), maka menolak H0 (bermakna signifikan). Angka 0,05 tidak baku selalu di angka itu, melainkan bergantung toleransi kesalahan tipe 1 (alpha) yang ditetapkan peneliti.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "93",
+    "question": "Sebuah jurnal menyebutkan bahwa alat uji imunokromatografik (ICT) terhadap malaria di daerah endemic. Ditemukan bahwa sensitivitas alat adalah 95% yang bermakna..",
+    "options": [
+      "Jumlah orang sakit malaria pada area tersebut adalah 95%",
+      "Terdapat 95% orang sakit malaria yang memperoleh hasil positif dengan ICT",
+      "Terdapat 5% orang sakit malaria yang memperoleh hasil positif dengan ICT",
+      "Terdapat probabilitas 95% untuk orang yang mendapatkan hasil positif ICT benar sakit malaria",
+      "Sebesar 95% orang yang hasil ICT negatif yang benar-benar tidak sakit"
+    ],
+    "correct": 1,
+    "explanation": "Benar: Terdapat 95% orang sakit malaria yang memperoleh hasil positif. Definisi sensitivitas adalah probabilitas tes bernilai positif pada individu yang memang BENAR SAKIT (True Positive Rate).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "94",
+    "question": "Penelitian survey lazim dipergunakan dalam konteks kesehatan masyarakat dan manajemen kesehatan. Dari pilihan di bawah ini, manakah pertanyaan penelitian yang tidak sesuai untuk diteliti dengan survey?",
+    "options": [
+      "Persepsi orangtua mengenai vaksinasi pada anak",
+      "Evaluasi Kepuasan pelayanan kesehatan di sebuah Puskesmas",
+      "Kualitas hidup lansia dengan demensia di sebuah Provinsi",
+      "Efektifitas program tanaman obat dalam menurunkan unnecessary clinic visit",
+      "Hubungan antara status sosioekonomi dengan jumlah kunjungan antenatal care"
+    ],
+    "correct": 3,
+    "explanation": "Benar: Efektifitas program. Untuk mengukur efektivitas suatu perlakuan/program, biasanya diperlukan uji intervensi/eksperimen (seperti kuasi-eksperimen atau RCT), bukan sekadar metode survei.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "95",
+    "question": "Pada sistematika proposal penelitian, pertanyaan atau masalah penelitian ada di bab berapa?",
+    "options": [
+      "Satu",
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Lima"
+    ],
+    "correct": 0,
+    "explanation": "Benar: Satu. Rumusan masalah penelitian (research problem) merupakan bagian vital yang dijabarkan pada Bab 1 (Pendahuluan), bersama dengan latar belakang dan tujuan.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "96",
+    "question": "Latar belakang dari diperlukan Evidence Base Medicine/ pembuktian ilmiah sebagai dasar dari kedokteran adalah:",
+    "options": [
+      "Dokter berlatarbelakang pendidikan baik dan memiliki kompetensi mampu menyelesaikan masalah kesehatan pasien",
+      "Di era BPJS dan universal health coverage, kepuasan pasien menjadi yang utama dalam pelayanan kesehatan",
+      "Nilai-nilai dan pengetahuan seorang dokter sangat penting dalam tatalaksana pasien",
+      "Seorang dokter harus selalu membuat pilihan tatalaksana pasien berdasarkan ekspertise, kaidah pasien dan bukti ilmiah",
+      "Pembuktian ilmiah menjadi dasar ilmu kedokteran modern"
+    ],
+    "correct": 3,
+    "explanation": "Benar: Pilihan tatalaksana berdasarkan ekspertise, kaidah/preferensi pasien, dan bukti ilmiah. Ini adalah definisi fundamental Triad EBM menurut David Sackett (Clinical expertise, patient values, and best available clinical evidence).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "97",
+    "question": "Insidensi kasus Covid19 meningkat tajam sesudah masa liburan panjang kemarin. Penyumbang terbesar adalah kluster keluarga yang berwisata keluar kota. Tetangga kalian baru saja pulang dari luar kota. Ini berarti tetangga kalian mungkin terkena Covid19. Pola pikir manakah yang paling sesuai dengan pernyataan di atas?",
+    "options": [
+      "Ontology",
+      "Deduktif",
+      "Induktif",
+      "Epistemology",
+      "Axiology"
+    ],
+    "correct": 2,
+    "explanation": "Benar: Induktif. Berpikir induktif artinya menarik kesimpulan umum dari observasi-observasi khusus (dari hal yang bersifat spesifik di sekitar seperti tetangga yang baru pulang dari kota mengarah ke kemungkinan penyakit).",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "98",
+    "question": "Metode penelitian kualitatif ethnografi memiliki karakteristik...",
+    "options": [
+      "Menggunakan observasi partisipan dan wawancara mendalam",
+      "Fokus pada pengembangan teori",
+      "Fokus pada pengujian teori",
+      "Pengumpulan data dan analisis dilakukan simultan",
+      "Fokus pada pengalaman individu"
+    ],
+    "correct": 0,
+    "explanation": "Benar: Menggunakan observasi partisipan dan wawancara mendalam. Peneliti etnografi lazimnya melakukan 'immersion' (melebur ke dalam kehidupan sehari-hari partisipan) melalui participant observation berbulan-bulan lamanya.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "99",
+    "question": "Penelitian oleh dokter di Dinas Kesehatan Provinsi akan melibatkan pasien di rumah tahanan Provinsi tersebut. Guideline penelitian yang digunakan sebaiknya merujuk CIOMS 2016 tentang penelitian yang melibatkan..",
+    "options": [
+      "Kelompok dewasa yang tidak mampu memberikan informed consent",
+      "Kelompok anak dan ibu hamil",
+      "Kelompok rentan",
+      "Pasien dengan penyakit berat",
+      "Kelompok hewan coba atau jaringan"
+    ],
+    "correct": 2,
+    "explanation": "Benar: Kelompok rentan (Vulnerable groups). Narapidana di rumah tahanan dianggap sebagai kelompok rentan karena mereka terikat relasi kuasa dan mungkin tidak sepenuhnya memiliki kebebasan murni dalam menyatakan persetujuan riset.",
+    "category": "Rekap Minites",
+    "img": null
+  },
+  {
+    "id": "100",
+    "question": "Pada model abstrak kedokteran, cara analisis data biasanya dituliskan pada bagian apa?",
+    "options": [
+      "Title",
+      "Introduction",
+      "Method",
+      "Result",
+      "Conclusion"
+    ],
+    "correct": 2,
+    "explanation": "Benar: Method (Metodologi). Cara kerja, desain, jumlah sampel, alat ukur, hingga metode analisis statistik wajib dilaporkan pada section 'Methods' dalam penulisan abstrak empiris.",
+    "category": "Rekap Minites",
+    "img": null
+  }
+]
